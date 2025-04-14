@@ -1,4 +1,3 @@
---upgrade pip setuptools wheel
 --force-reinstall setuptools
 beautifulsoup4==4.8.2
 click==7.0
