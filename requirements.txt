@@ -9,3 +9,5 @@ tqdm==4.42.1
 pathos==0.2.9
 urllib3==1.26.7
 transformers
+huggingface_hub
+jupyter
