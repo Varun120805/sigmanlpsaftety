@@ -2,7 +2,8 @@ beautifulsoup4==4.8.2
 click==7.0
 cssutils==1.0.2
 numpy==1.26.0
-lxml --only-binary=:all:
+libxml2
+libxslt
 lxml==4.9.1
 pandas==1.5.3
 requests==2.31.0
